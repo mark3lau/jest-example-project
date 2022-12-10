@@ -1,4 +1,4 @@
-const { game, newGame, showScore, addTurn, lightsOn } = require("../game");
+const { game, newGame, showScore, addTurn, lightsOncl } = require("../game");
 
 beforeAll(() => {
     let fs = require("fs");
